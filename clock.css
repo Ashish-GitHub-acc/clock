@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+}
+canvas{
+    border: 2px solid black;
+    background-color: #000000;
+    transform:rotate(-90deg);
+}
+div{
+    position: absolute;
+    height: 280px;
+    width: 280px;
+    text-align:center;
+    color: azure;
+    /* background-color: aquamarine;  */
+}
